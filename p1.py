@@ -1,6 +1,6 @@
 import random
 
-target = random.randint(1, 100)
+target = random.randint(1, 1000)
 
 while True:
     yourchoice = input("Guess the target or Quit(Q): ")
